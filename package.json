@@ -2,6 +2,7 @@
   "name": "mem-storage",
   "version": "1.0.0",
   "description": "in-memory implementation of W3C webstorage Storage interface",
+  "repository": "https://github.com/richRemer/mem-storage",
   "main": "mem-storage.js",
   "scripts": {
     "test": "mocha"
